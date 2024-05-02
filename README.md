@@ -1,5 +1,5 @@
 # Next.js14_Authentication_with_Clerk
- Implement Clerk with Next.js, using the latest version of this technology 👋
+ Implement Clerk with Next.js, using the latest version of this Technology 👋
  
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img
